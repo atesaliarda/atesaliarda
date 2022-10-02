@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @atesaliarda
+- 🌱 I’m currently learning C#, C , C++
+- 📫 How to reach me: Vape#6094
